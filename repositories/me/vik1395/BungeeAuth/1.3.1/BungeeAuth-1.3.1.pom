@@ -8,11 +8,11 @@
   
   <distributionManagement>
     <repository>
-        <id>bungeeauth-repo</id>
+        <id>bungeecord-repo</id>
         <url>file://${project.build.directory}/deploy/repositories</url>
     </repository>
     <snapshotRepository>
-        <id>bungeeauth-snapshot</id>
+        <id>bungeecord-snapshot</id>
         <url>file://${project.build.directory}/deploy/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
