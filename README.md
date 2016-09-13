@@ -5,7 +5,7 @@ Adding **BungeeAuth** as a dependency:
     <repositories>
         <repository>
             <id>bungeecord-repo</id>
-            <url>http://repo.vik1395.me/</url>
+            <url>http://repo.vik1395.me/repositories</url>
         </repository>
     </repositories>
 
